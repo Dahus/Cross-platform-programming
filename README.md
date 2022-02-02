@@ -15,15 +15,15 @@ Empty state screens are implemented (all done and/or nothing planned). (+2 point
 Start new day feature is implemented (with ability to move some tasks on a new day). (+2 points)
 
 ## Лабораторная 4. Memact 
-https://codesandbox.io/s/lab4notifications-v8pij
-https://codesandbox.io/s/lab4buttonlike-5gnml
-https://codesandbox.io/s/lab4exchangerates-zmy1s
-https://codesandbox.io/s/lab4friendlist-fk0lm
+1. https://codesandbox.io/s/lab4notifications-v8pij
+2. https://codesandbox.io/s/lab4buttonlike-5gnml
+3. https://codesandbox.io/s/lab4exchangerates-zmy1s
+4. https://codesandbox.io/s/lab4friendlist-fk0lm
 
 ## Лабораторная 5. React Basics
-https://codesandbox.io/s/lab5-converter-j42ie
-https://codesandbox.io/s/lab-5-balidated-input-nwr35
-https://codesandbox.io/s/lab5-semented-4cbiu
+1. https://codesandbox.io/s/lab5-converter-j42ie
+2. https://codesandbox.io/s/lab-5-balidated-input-nwr35
+3. https://codesandbox.io/s/lab5-semented-4cbiu
 
 ## Лабораторная 6. Poll App
 Assignment Due Dec 15 by 11:30 PM.
