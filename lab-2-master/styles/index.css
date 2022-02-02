@@ -1,0 +1,167 @@
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  min-height: 100% !important;
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 240px;
+  height: 340px;
+  border: 1px solid #E8E8E8;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tasks {
+  width: 74px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+}
+
+.button {
+  width: 74px;
+  height: 24px;
+  border: 1px solid #E8E8E8;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #E8E8E8;
+}
+
+.group__rectangle {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 16px;
+  /* identical to box height, or 107% */
+  color: #252526;
+
+  display: block;
+  height: 174px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.group__rectangle::-webkit-scrollbar {
+  width: 0px;
+}
+
+.rectangle {
+  background: #F1F2F6;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.02em;
+  height: 26px;
+  width: 220px;
+  cursor: pointer;
+  margin-top: 3%;
+}
+
+.square__window {
+  width: 17px;
+  height: 17px;
+  /* Размеры */
+  background: #FFFFFF;
+  border: 2px solid #BBC1DA;
+  box-sizing: border-box;
+  border-radius: 6px;
+  margin-left: 5px;
+}
+
+.remove__item {
+  margin-left: auto;
+  margin-right: 4%;
+}
+
+.square__window__text {
+  margin-left: 5px;
+}
+
+.square__window__text--crossed {
+  text-decoration: line-through;
+}
+
+.square__window__text.square__window__text-item--done {
+  background-color: #000000;
+}
+
+.square__window__text.square__window__text-item--done .square__window__text {
+  text-decoration: line-through;
+}
+
+.add__tasks {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 16px;
+  /* identical to box height, or 107% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin-top: 5%;
+  margin-left: 5px;
+  margin-bottom: 5%;
+}
+
+.icon__plus {
+  cursor: pointer;
+  height: 16px;
+  margin-bottom: 2px;
+}
+
+.add__tasks__text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 16px;
+  /* identical to box height, or 107% */
+  display: flex;
+  align-items: center;
+
+  letter-spacing: 0.02em;
+  color: #A5A5A5;
+  margin-left: 5px;
+
+  width: 194px;
+
+  resize: none;
+  overflow: hidden;
+  outline: none;
+  border: none;
+}
+
+input, select, .add__tasks__text {
+  color: #000000;
+}

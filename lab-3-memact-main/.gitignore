@@ -1,0 +1,6 @@
+dist
+.vscode
+node_modules
+.parcel-cache
+node_modules
+src-no-jsx
