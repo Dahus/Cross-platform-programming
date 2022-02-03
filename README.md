@@ -14,10 +14,13 @@ Scroll is handled properly. Scroll bar custom styles are used. (+1 point)
 Empty state screens are implemented (all done and/or nothing planned). (+2 points)
 Start new day feature is implemented (with ability to move some tasks on a new day). (+2 points)
 
-## Лабораторная 4. React Basics 
+## Лабораторная 4. React Basics
+
 The purpose of this assignment is to learn React basics by building components. Tasks should to be done in cloud IDE ([https://codesandbox.io/](https://codesandbox.io/)). Submit your solutions as a links to sandboxes, one for every task.
 
 You can score up to **12 points**, with max score for every task noted in the task's header.
+
+* Задание - https://omniscient-cross-3df.notion.site/Lab-4-React-Basics-bdab08b7994f4bfbb7483683ffc8fcac
 
 1. https://codesandbox.io/s/lab4notifications-v8pij
 2. https://codesandbox.io/s/lab4buttonlike-5gnml
@@ -25,9 +28,12 @@ You can score up to **12 points**, with max score for every task noted in the ta
 4. https://codesandbox.io/s/lab4friendlist-fk0lm
 
 ## Лабораторная 5. React Forms
+
 The assignment purpose is to learn how to build forms with React. Submit your solutions as a links to sandboxes, one for every task.
 
 You can score up to **18 points**, with max score for every task noted in the task's header.
+
+* Здание - https://omniscient-cross-3df.notion.site/Lab-5-React-Forms-9a963f5669d34e75931c2270ca33134d
 
 1. https://codesandbox.io/s/lab5-converter-j42ie
 2. https://codesandbox.io/s/lab-5-balidated-input-nwr35
