@@ -1,4 +1,10 @@
 # Кроссплатформенное программирование
+
+## Лабораторная 1. 
+Сверстать собственное резюме.
+1.  Макет доступен по ссылке https://www.figma.com/file/q1ss5HpJIbaWvJefgQNxz6/Lab-1
+2.  Для написания резюме можно пользоваться, например, следующими ресурсами: <br> https://journal.tinkoff.ru/guide/resume/ <br> http://maximilyahov.ru/blog/all/rasskaz-o-sebe/ <br> https://resume.io/how-to-write-a-resume
+
 ## Лабораторная 2. Chrome Extension
 The purpose of this assignment is to help you get started with vanilla JS development.
 
