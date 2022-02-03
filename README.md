@@ -28,6 +28,8 @@ You can score up to **12 points**, with max score for every task noted in the ta
 
 * Задание - https://omniscient-cross-3df.notion.site/Lab-4-React-Basics-bdab08b7994f4bfbb7483683ffc8fcac
 
+Ссылки на лабы:
+
 1. https://codesandbox.io/s/lab4notifications-v8pij
 2. https://codesandbox.io/s/lab4buttonlike-5gnml
 3. https://codesandbox.io/s/lab4exchangerates-zmy1s
@@ -40,6 +42,8 @@ The assignment purpose is to learn how to build forms with React. Submit your so
 You can score up to **18 points**, with max score for every task noted in the task's header.
 
 * Здание - https://omniscient-cross-3df.notion.site/Lab-5-React-Forms-9a963f5669d34e75931c2270ca33134d
+
+Ссылки на лабы:
 
 1. https://codesandbox.io/s/lab5-converter-j42ie
 2. https://codesandbox.io/s/lab-5-balidated-input-nwr35
